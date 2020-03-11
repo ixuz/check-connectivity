@@ -1,0 +1,34 @@
+{
+  "name": "check-connectivity",
+  "version": "1.0.0-beta",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MagnumOpuses/check-connectivity.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MagnumOpuses/check-connectivity/issues"
+  },
+  "homepage": "https://github.com/MagnumOpuses/check-connectivity#readme",
+  "dependencies": {
+    "check-dependencies": "^1.1.0",
+    "express": "^4.17.1",
+    "http": "0.0.0",
+    "node-fetch": "^2.6.0",
+    "semver": "^7.1.3"
+  },
+  "devDependencies": {
+    "jest": "^25.1.0",
+    "supertest": "^4.0.2"
+  }
+}
