@@ -38,6 +38,7 @@ Example `/health` response body.
 ```js
 // Start up health server
 const healthServer = new require("check-connectivity")({
+  port: 9801, // Optional configuration property, default 9800.
   compatibleWith: {
     "other-service": "^1.0.0", // <service name>: "<service version>"
     "another-service": "^2.0.0" // <service name>: "<service version>"
