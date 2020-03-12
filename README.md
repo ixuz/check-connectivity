@@ -45,7 +45,7 @@ const healthServer = new require("check-connectivity")({
 }).listen();
 
 // Check compatability with other service
-healthA
+healthServer
   .checkCompatabilityWith("http://other.service.com:9800/health")
   .then(result => console.log("Compatible: ", result));
 
