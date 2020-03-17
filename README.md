@@ -160,14 +160,16 @@ $ curl http://localhost:3000/checkCompatability?name=foo&version=1.2.3
 
 ## Contributing
 
-For small projects you can just add a few sentences if and how you'd like people to contribute.
+We would love if you'd like to help us build and improve this product for the benefit of everyone. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org/) code of conduct.
 
-For larger projects add a [CONTRIBUTING.md](CONTRIBUTING_TEMPLATE.md) file with a detailed description of how contributions are to be made. See the [CONTRIBUTING.md template](CONTRIBUTING_TEMPLATE.md).
+Any contributions, feedback and suggestions are more than welcome.
+
+Please read our guidelines for contribution [here](CONTRIBUTING.md).
 
 ## License
 
-Add the license name and a link to the license file that contains the full text.
+[Apache License 2.0](LICENSE.md)
 
 ## Acknowledgments
 
-Add any acknowledgments you might want to share (inspiration etc.).
+No acknowledgments yet.
